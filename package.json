@@ -3,6 +3,7 @@
   "version": "1.3.2",
   "description": "The Siri wave replicated in a JS library.",
   "module": "dist/siriwave.m.js",
+  "main": "dist/siriwave.js",
   "jsnext:main": "dist/siriwave.m.js",
   "unpkg": "dist/siriwave.js",
   "amdName": "SiriWave",
